@@ -1,0 +1,10 @@
+.detail-info {
+    font-size: 18px;
+    font-style: italic;
+}
+.card-img-detail {
+    object-fit: 'cover';
+    border-radius: 55;
+    width: '50vw';
+    height: '30vh'
+}

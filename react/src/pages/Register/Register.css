@@ -1,0 +1,25 @@
+h3 {
+    text-transform: uppercase;
+    color: #fff8f8;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+.container {
+  width: 1000px;
+}
+.label {
+  font-size: 20px;
+  color: #fff8f8;
+}
+.pref-btn {
+  background-color: #FFE4E4 ;
+  border-color: #FFE4E4 ;
+  margin: auto; 
+  width: 600px;
+}
+.btn-submit {
+  margin: auto; 
+  width: 600px;
+}

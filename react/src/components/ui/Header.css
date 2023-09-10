@@ -1,0 +1,12 @@
+header {
+    background-color: #f08080;
+}
+.header-logo {
+    width: 60px;
+}
+.nav-link {
+    color: #FFEEEE;
+}
+.nav-link:active {
+    color: #c12525;
+}

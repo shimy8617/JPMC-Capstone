@@ -1,0 +1,71 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-title {
+    color: #FFEEEE;
+    font-size: 40px;
+}
+.card-title.h5 {
+    color: #c12525;
+}
+p.card-text {
+    color: #c12525;
+}
+.card-recom {
+    border:3px solid white; 
+}
+.recom-title {
+    color: #c12525;
+    font-size: 20px;
+    padding: 8px;
+    text-transform: uppercase;
+}
+.rest-info {
+    list-style: none;
+    padding-left: 0;
+}
+.rest-info li{
+    font-size: 18px;
+    font-style: italic;
+    color: #c12525;
+}
+.btn-row {
+    display: flex;
+    justify-content: space-between;
+}
+.btn-like {
+    background-color: #c12525;
+    border: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 12px;
+}
+
+.btn-like i{
+    background-color: #c12525;
+    font-size: 40px;
+}
+
+.btn-dislike {
+    background-color: #c12525;
+    border: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 12px;
+}
+
+
+.btn-dislike i{
+    background-color: #c12525;
+    font-size: 40px;
+}
+.link-detail {
+    color: #c12525;
+    font-weight: 400;
+    font-size: 18px;
+}
+.btn-row {
+    color: #c12525;
+}
